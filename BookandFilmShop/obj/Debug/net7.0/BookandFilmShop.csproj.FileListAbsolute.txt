@@ -251,3 +251,14 @@ C:\Users\kalina.nenova\Desktop\BookandFilmShop\BookandFilmShop\obj\Debug\net7.0\
 C:\Users\kalina.nenova\Desktop\BookandFilmShop\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.pdb
 C:\Users\kalina.nenova\Desktop\BookandFilmShop\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.genruntimeconfig.cache
 C:\Users\kalina.nenova\Desktop\BookandFilmShop\BookandFilmShop\obj\Debug\net7.0\ref\BookandFilmShop.dll
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.csproj.AssemblyReference.cache
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.AssemblyInfoInputs.cache
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.AssemblyInfo.cs
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.csproj.CoreCompileInputs.cache
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.RazorAssemblyInfo.cache
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.RazorAssemblyInfo.cs
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.dll
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\refint\BookandFilmShop.dll
+C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\obj\Debug\net7.0\BookandFilmShop.pdb

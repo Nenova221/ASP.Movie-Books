@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookandFilmShop
 build_property.RootNamespace = BookandFilmShop
-build_property.ProjectDir = C:\Users\kalina.nenova\Desktop\BookandFilmShop\BookandFilmShop\
+build_property.ProjectDir = C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\kalina.nenova\Desktop\BookandFilmShop\BookandFilmShop
+build_property.MSBuildProjectDirectory = C:\Users\ivet.popova\Desktop\Project\ASP.Movie-Books\BookandFilmShop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Books/Create.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Books/Delete.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Books/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Books/Details.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Books/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Books/Edit.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Books/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Books/Index.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Home/Index.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Home/Privacy.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Shared/Error.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/_ViewImports.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/_ViewStart.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kalina.nenova/Desktop/BookandFilmShop/BookandFilmShop/Views/Shared/_Layout.cshtml]
+[C:/Users/ivet.popova/Desktop/Project/ASP.Movie-Books/BookandFilmShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ls7gihjuua
