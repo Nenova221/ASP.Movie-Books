@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using BookandFilmShop.Controllers;
+using BookandFilmShop.Models;
 
 namespace BookandFilmShop.Data
 {
@@ -15,5 +16,7 @@ namespace BookandFilmShop.Data
         }
 
         public DbSet<BookandFilmShop.Controllers.Book> Book { get; set; } = default!;
+
+        public DbSet<BookandFilmShop.Models.Movies> Movies { get; set; } = default!;
     }
 }
