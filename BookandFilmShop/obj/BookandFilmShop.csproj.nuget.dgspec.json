@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivet.popova\\Desktop\\Project\\ASP.Movie-Books\\BookandFilmShop\\BookandFilmShop.csproj": {}
+    "C:\\Users\\kalina.nenova\\Desktop\\BookandFilmShop\\ASP.Movie-Books\\BookandFilmShop\\BookandFilmShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivet.popova\\Desktop\\Project\\ASP.Movie-Books\\BookandFilmShop\\BookandFilmShop.csproj": {
+    "C:\\Users\\kalina.nenova\\Desktop\\BookandFilmShop\\ASP.Movie-Books\\BookandFilmShop\\BookandFilmShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivet.popova\\Desktop\\Project\\ASP.Movie-Books\\BookandFilmShop\\BookandFilmShop.csproj",
+        "projectUniqueName": "C:\\Users\\kalina.nenova\\Desktop\\BookandFilmShop\\ASP.Movie-Books\\BookandFilmShop\\BookandFilmShop.csproj",
         "projectName": "BookandFilmShop",
-        "projectPath": "C:\\Users\\ivet.popova\\Desktop\\Project\\ASP.Movie-Books\\BookandFilmShop\\BookandFilmShop.csproj",
-        "packagesPath": "C:\\Users\\ivet.popova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivet.popova\\Desktop\\Project\\ASP.Movie-Books\\BookandFilmShop\\obj\\",
+        "projectPath": "C:\\Users\\kalina.nenova\\Desktop\\BookandFilmShop\\ASP.Movie-Books\\BookandFilmShop\\BookandFilmShop.csproj",
+        "packagesPath": "C:\\Users\\kalina.nenova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kalina.nenova\\Desktop\\BookandFilmShop\\ASP.Movie-Books\\BookandFilmShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ivet.popova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kalina.nenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
