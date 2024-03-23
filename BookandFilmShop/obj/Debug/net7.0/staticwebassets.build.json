@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Afp3Yxqb9vvo1P4Il2J6yJe9wCSdPJ6HAgafYOdHD1k=",
+  "Hash": "Wb9p0KP2PAN47x0o8D3fziL1XXyn9YPBqrW/L+p7CoQ=",
   "Source": "BookandFilmShop",
   "BasePath": "_content/BookandFilmShop",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kalina.nenova\\Desktop\\BookandFilmShop\\ASP.Movie-Books\\BookandFilmShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BookandFilmShop.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\kalina.nenova\\Desktop\\BookandFilmShop\\ASP.Movie-Books\\BookandFilmShop\\wwwroot\\css\\444.webp",
+      "SourceId": "BookandFilmShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kalina.nenova\\Desktop\\BookandFilmShop\\ASP.Movie-Books\\BookandFilmShop\\wwwroot\\",
+      "BasePath": "_content/BookandFilmShop",
+      "RelativePath": "css/444.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\444.webp"
     },
     {
       "Identity": "C:\\Users\\kalina.nenova\\Desktop\\BookandFilmShop\\ASP.Movie-Books\\BookandFilmShop\\wwwroot\\css\\site.css",

@@ -8,6 +8,28 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/BookandFilmShop.styles.css" asp-append-version="true" />
 </head>
+<style>
+    body{
+        background-color:bisque;   
+    }
+    ul{
+        margin:10px 20px;
+        padding: 15px;
+        border:solid;
+        border-radius:10px;
+    }
+    li{
+        margin:10px;
+        padding:5px;
+        border:5px;
+        border-radius: 10px;
+    }
+     th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+ 
+}
+</style>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
@@ -32,7 +54,7 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Movies" asp-action="Index">Movies</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Contacts</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Contacts" asp-action="Index">Contacts</a>
                         </li>
 
                     </ul>
